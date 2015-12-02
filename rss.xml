@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sarahhines]]></title>
+        <description><![CDATA[Sarahhines]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 02 Dec 2015 22:07:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It is your destiny to conquer life..</p>]]></description>
+            <link>undefinedc78f35bb-0d46-469b-aac6-78a8cffd0822/index.html</link>
+            <guid isPermaLink="false">c78f35bb-0d46-469b-aac6-78a8cffd0822</guid>
+            <pubDate>Wed, 02 Dec 2015 22:07:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
